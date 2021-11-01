@@ -1,5 +1,9 @@
 # File-manager
 Практикум по программированию
+
+
+
+
 ![image](https://user-images.githubusercontent.com/70951761/139746341-741ce6e5-fe83-425f-9ad1-b6133998355e.png)
 
 
@@ -9,7 +13,3 @@
 
 
 ![image](https://user-images.githubusercontent.com/70951761/139746951-9f1c0b45-4785-4344-905a-c9e0b950d0fc.png)
-
-
-
-![image](https://user-images.githubusercontent.com/70951761/139747070-f3d30c25-7fb8-47ed-8225-0d880c81650e.png)
